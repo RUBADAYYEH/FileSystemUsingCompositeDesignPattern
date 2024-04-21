@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LBaJuHtAEunQ3dU5HraEkpLCm23s/YcUo0wqiDbwjBtLr9v6Lhu1krjXYFixPMUxnzOGv+W4jJKJ5fUzXqQw/A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lenovo\\source\\repos\\CompositePattern\\CompositePattern.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+C:\Users\Lenovo\source\repos\CompositePattern\bin\Debug\net8.0\CompositePattern.exe
+C:\Users\Lenovo\source\repos\CompositePattern\bin\Debug\net8.0\CompositePattern.deps.json
+C:\Users\Lenovo\source\repos\CompositePattern\bin\Debug\net8.0\CompositePattern.runtimeconfig.json
+C:\Users\Lenovo\source\repos\CompositePattern\bin\Debug\net8.0\CompositePattern.dll
+C:\Users\Lenovo\source\repos\CompositePattern\bin\Debug\net8.0\CompositePattern.pdb
+C:\Users\Lenovo\source\repos\CompositePattern\obj\Debug\net8.0\CompositePattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\CompositePattern\obj\Debug\net8.0\CompositePattern.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\CompositePattern\obj\Debug\net8.0\CompositePattern.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\CompositePattern\obj\Debug\net8.0\CompositePattern.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\CompositePattern\obj\Debug\net8.0\CompositePattern.dll
+C:\Users\Lenovo\source\repos\CompositePattern\obj\Debug\net8.0\refint\CompositePattern.dll
+C:\Users\Lenovo\source\repos\CompositePattern\obj\Debug\net8.0\CompositePattern.pdb
+C:\Users\Lenovo\source\repos\CompositePattern\obj\Debug\net8.0\CompositePattern.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\CompositePattern\obj\Debug\net8.0\ref\CompositePattern.dll
+C:\Users\Lenovo\source\repos\CompositePattern\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Lenovo\source\repos\CompositePattern\obj\Debug\net8.0\CompositePattern.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\CompositePattern\obj\Debug\net8.0\Composit.FC3FADC2.Up2Date
